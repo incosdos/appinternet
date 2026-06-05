@@ -1,4 +1,7 @@
-# **Proyecto Web JJJ**
-Lider: Julio Cesar vasquez Rocabado <br>
-Colaborador1: Juan Daniel Vicente Quispe <br>
-Colaborador2: Juan Marcelo Carrasco Nuñes  
+# **Proyecto Web Dino**
+## **Integrantes**
+| Rol | Nombre |
+|---------|---------|
+| **Lider** | **Julio Cesar vasquez Rocabado** |
+| **Colaborador 1** | **Juan Daniel Vicente Quispe** |
+|**Colaborador 2** | **Juan Marcelo Carrasco Nuñes** | 
